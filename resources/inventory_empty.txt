@@ -1,0 +1,4 @@
+buy apples
+buy pie
+buy tomato
+buy cake

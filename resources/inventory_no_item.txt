@@ -1,0 +1,8 @@
+add banana
+add pea
+add strawberry
+buy tea
+buy bread
+buy juice
+add pie
+add chicken
